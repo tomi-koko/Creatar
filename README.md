@@ -63,5 +63,6 @@ Instead, it is built to support **clarity, continuity, and reflection** in creat
 
 ## License
 
-[Choose a license here]
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
 
